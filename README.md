@@ -1,7 +1,7 @@
 # Git-Place
-**Englis**
+**English**
 
-Git-Place is a project inspired by [r/place di Reddit](https://www.reddit.com/r/place/). **Everyone can partecipate** modifying one or more pixels of a white canvas of 500x500 pixels.
+Git-Place is a project inspired by [r/place di Reddit](https://www.reddit.com/r/place/). **Everyone can partecipate** edit one or more pixels of a white canvas of 500x500 pixels.
 
 ### Prerequisites
 - Python3.x
