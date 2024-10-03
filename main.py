@@ -20,6 +20,7 @@ now in the canvas.putpixel right below change the coordinates and the color.
 REMEMBER: the coordinates are (x, y) and the color is (r, g, b) 
 where r, g, b are the values of the color you want to draw
 
+example: canvas.putpixel((412,12),(241,19,112))
 '''
 canvas.putpixel((0,0),(0,0,0))
 
