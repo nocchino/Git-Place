@@ -37,6 +37,9 @@ After choosing the pixel to draw, remove the "#" from canvas.save("image.png") a
 
 **4. Raise a Pull Request:**
 
+**Current Canvas**
+![alt](https://github.com/nocchino/Git-Place/blob/main/image.png)
+
 Current Canvas:
 
 
